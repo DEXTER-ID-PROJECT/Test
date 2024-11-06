@@ -1,4 +1,4 @@
-{"user_id": 6983385429, "plan": 3, "valid_until": "2024-11-13", "access_count": 0}
+{"user_id": 6983385429, "plan": 3, "valid_until": "2024-12-13", "access_count": 9}
 {"user_id": 1970192536, "plan": 3, "valid_until": "2024-10-19", "access_count": 0}
 {"user_id": 602418303, "plan": 3, "valid_until": "2024-10-19", "access_count": 0}
 {"user_id": 6967305090, "plan": 0, "valid_until": "2024-10-25", "access_count": 0}
